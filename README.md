@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=sever-sever&count_private=true&include_all_commits=true&theme=buefy" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=sever-sever&count_private=true&include_all_commits=true&theme=default" />
 </div>
