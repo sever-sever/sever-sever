@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on VyOS
+
+
 <!--
 **sever-sever/sever-sever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img height="185" src="hhttps://github-readme-stats.vercel.app/api?username=sever-sever&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=sever-sever&count_private=true&include_all_commits=true&theme=buefy" />
 </div>
