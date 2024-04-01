@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/sever-sever/vyos-automate" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sever-sever&repo=vyos-automate&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/sever-sever/flowspec-nftables" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sever-sever&repo=flowspec-nftables&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/sever-sever/nftables-cgnat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sever-sever&repo=nftables-cgnat&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
